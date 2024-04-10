@@ -1,9 +1,9 @@
-@Test
+
 Business Need: Registrar una cita en el servicio de cura salud
   Yo como usuario de la aplicacion
   Quiero generar una cita
   Para poder hacer uso del servicio
-
+  git
   Background: realizar el logueo de la aplicacion
     Given el usuario ingresa a la aplicacion
 
